@@ -2,9 +2,9 @@
 <div style="background-color: #1E1E1E; color: #FFFFFF; padding: 20px; border-radius: 5px;">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="GIF alt text" width="300" height="200">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF alt text" width="300" height="200">
-  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="GIF alt text" width="300" height="200">
+  <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="GIF alt text" width="200" height="100">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF alt text" width="200" height="100">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="GIF alt text" width="200" height="100">
 </p>
 </p>
 
