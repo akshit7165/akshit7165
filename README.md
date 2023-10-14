@@ -50,7 +50,7 @@ Here are the technical skills that I bring to the table:
 
 Feel free to reach out to me through the following channels:
 
-- :email: Email: [![Email](https://img.shields.io/badge/Email-%E2%9C%89%EF%B8%8F-brightgreen)](mailto:akshit7165@email.com)
+- :email: Email: [![Email](https://img.shields.io/badge/Email-%E2%9C%89%EF%B8%8F-brightgreen)](mailto:akshit7165@gmail.com)
 - :link: LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%F0%9F%93%8A-blue)](https://www.linkedin.com/in/akshit7165)
 - :octocat: GitHub: [![GitHub](https://img.shields.io/badge/GitHub-%E2%9A%99%EF%B8%8F-ff69b4)](https://github.com/akshit7165)
 
