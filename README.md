@@ -1,15 +1,19 @@
+## Hello there, glad you made your way through my profile
 <div style="background-color: #1E1E1E; color: #FFFFFF; padding: 20px; border-radius: 5px;">
 
 <p align="center">
   <img src="https://media.giphy.com/media/rJsMvyk7AHHiW9qKLM/giphy.gif" alt="GIF alt text" width="300" height="200">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="GIF alt text" width="300" height="200">
+  <img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="GIF alt text" width="300" height="200">
+</p>
 </p>
 
 # Akshit Sharma :computer: :cloud:
 
-## Objective
+## Objective :dart:
 Highly motivated and results-driven **Cloud DevOps Engineer** with 1+ years of experience leveraging cloud technologies to implement infrastructure as code, continuous integration, and continuous delivery. I have extensive hands-on experience using AWS and Azure services to build, deploy, monitor, and scale applications. My proven track record of implementing CI/CD pipelines using Azure Pipelines and AWS CodePipeline has significantly improved release cycles and deployment success rates. I am passionate about automating processes, optimizing infrastructure, and improving efficiency through cloud technologies and DevOps practices. I'm seeking to utilize my technical skills, passion for learning, and problem-solving ability to contribute value and grow within a collaborative team environment.
 
-## GitHub Stats and Most Used Languages :chart_with_upwards_trend:
+## Most Used Languages :chart_with_upwards_trend:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshit7165&theme=dark&layout=compact&width=600&height=400)
 
