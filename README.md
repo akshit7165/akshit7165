@@ -25,10 +25,6 @@ Results-driven Cloud DevOps Engineer with a B.Tech in Information Technology fro
 
 ## Technical Skills :rocket:
 
-Here are the technical skills that I bring to the table:
-
-# Technical Skills
-
 - **Programming Languages**:
   - Python 🐍
   - Java ☕️
