@@ -14,7 +14,7 @@ Hello there, glad you made your way through my profile.
 
 ## Objective :dart:
 
-Dynamic and results-driven Cloud Engineer with a proven track record of designing, deploying, and optimizing cloud infrastructure on AWS and Azure platforms. Leveraging nearly 2 years of experience, I excel at implementing Infrastructure as Code (IaC) and DevOps methodologies to drive cost savings and enhance operational efficiency. With a strong skill set in automation, scripting, and containerization technologies, I deliver scalable and secure cloud solutions that propel business growth.
+A dynamic and innovative Software Engineer specializing in cloud computing and infrastructure automation. With a proven track record in leading migration projects, enhancing security protocols, and optimizing system performance, I excel in streamlining workflows and fostering collaboration across teams. Committed to staying at the forefront of technology, I aim to deliver cutting-edge solutions, drive business growth, and make a significant impact in dynamic and collaborative environments
 
 ---
 
@@ -27,19 +27,17 @@ Relevant Coursework: Database Management Systems, System Architecture and Operat
 ---
 
 ## Technical Skills
-- **Programming:** Python, Java, Go, JavaScript
-- **Development Tools:** Visual Studio Code, Git/GitHub
-- **Infrastructure as Code:** Terraform, AWS CloudFormation
-- **Cloud:** AWS (EC2, ECR, EKS, Fargate, Lambda, Cloudwatch, APIGateway), Azure
-- **CI/CD:** Azure Pipelines, AWS CodePipeline, GitHub Actions
-- **Monitoring and Visualization:** Prometheus, Grafana
-- **Containerization and Orchestration:** Docker, Kubernetes
-- **Scripting:** Powershell, Bash
-- **Security:** HashiCorp Vault, AWS Secrets Manager
-- **VPC and Networking:** AWS Virtual Private Cloud and Networking concepts (configuration, security, best practices)
-- **Methodologies:** Agile (Scrum, Kanban)
-- **Additional Skills:** Strong Linux administration and understanding of networking concepts
 
+- **Cloud Platforms:** AWS (EC2, EKS, Fargate, Lambda, CloudWatch, API Gateway, Aurora), Azure (Entra ID, DevOps)
+- **Infrastructure as Code (IaC):** Terraform
+- **CI/CD:** AWS CodePipeline, Azure Pipelines, GitHub Actions
+- **Containerization and Orchestration:** Docker, Kubernetes (including EKS)
+- **Monitoring and Visualization:** AWS CloudWatch
+- **Programming:** Python, Go, JavaScript (Node.js, Angular)
+- **Security:** AWS Secrets Manager, HashiCorp Vault, IAM Roles, VPC Security Best Practices
+- **Version Control:** Git, GitHub
+- **Networking:** VPC, VPN, Route 53
+- **Methodologies:** Agile (Scrum, Kanban)
 
 ---
 ## Certifications
